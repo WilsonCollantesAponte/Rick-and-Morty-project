@@ -1,0 +1,26 @@
+.div {
+  display: flex;
+  justify-content: end;
+  /* border: 3px dashed black; */
+}
+
+.comp {
+  background-color: rgb(139, 254, 139);
+  padding: 1rem;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 16px;
+  margin-top: 3%;
+  margin-right: 3rem;
+}
+
+.button {
+  background-color: rgb(255, 255, 149);
+  color: rgb(151, 158, 255);
+}
+
+@media (max-width: 1000px) {
+  .div {
+    flex-direction: column;
+  }
+}

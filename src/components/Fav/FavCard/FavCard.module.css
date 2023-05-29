@@ -1,0 +1,31 @@
+.div {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(119, 116, 116);
+  width: fit-content;
+  height: fit-content;
+  margin: 5rem;
+  border-radius: 1rem;
+  align-items: center;
+}
+
+.image {
+  border-radius: 1rem;
+  width: fit-content;
+}
+
+.heartRed {
+  background-color: transparent;
+  width: fit-content;
+  border: 0;
+  font-size: 1.5rem;
+  padding: 1rem 0 1rem;
+}
+
+/* .heartWhite {
+  background-color: transparent;
+  width: fit-content;
+  border: 0;
+  font-size: 1.5rem;
+  padding: 1rem 1rem 1rem 1rem;
+} */

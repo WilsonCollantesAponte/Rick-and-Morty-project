@@ -1,0 +1,26 @@
+/* *{
+    margin:0%;
+    padding: 0%;
+    border: 0%;
+} */
+
+.div{
+    display:inline-flex;
+padding: 1rem;
+background-color: rgb(139, 254, 139);
+height:fit-content;
+width:fit-content;
+justify-content:end;
+margin: 3%;
+border-radius: 16%;
+
+}
+
+.input{
+    background-color: rgb(255, 255, 149);
+}
+
+.button{
+    background-color: rgb(151, 158, 255);
+    color: rgb(145, 255, 153);
+}

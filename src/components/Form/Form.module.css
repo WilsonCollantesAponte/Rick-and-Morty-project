@@ -1,0 +1,32 @@
+.p {
+  margin-top: 3rem;
+  /* background-image:url(../../Images/Form.jpg);
+background-size: contain; */
+}
+
+.errors {
+  background-color: rgb(139, 254, 139);
+  color: red;
+  border-radius: 3rem;
+  padding: 3px;
+  margin-top: 4px;
+  display: block;
+}
+
+.labelX {
+  background-color: rgb(139, 254, 139);
+  /* color:rgb(151, 158, 255); */
+  color: black;
+  border-radius: 3rem;
+  padding: 4px;
+}
+
+.input {
+  border-radius: 3rem;
+  padding: 7px;
+}
+
+.button {
+  border-radius: 1rem;
+  padding: 4px;
+}
